@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import BubblePopGame from './bubble-pop-game.tsx'; // アップロードしたファイルをインポート
+import BubblePopGame from './music-runner-game.tsx'; // アップロードしたファイルをインポート
 
 function App() {
   return (
